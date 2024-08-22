@@ -8,7 +8,7 @@ service:
       main:
         targetPort: 81
         protocol: http
-        port: 82
+        port: 81
   web:
     enabled: true
     ports:
